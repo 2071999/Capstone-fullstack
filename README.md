@@ -51,7 +51,7 @@ Sign up to unlock the favorites feature and save your favorite movies.
 
 #Links
 Github-https://github.com/2071999/Capstone-fullstack
-Deployment-capstone-fullstack.vercel.app
+Deployment-https://capstone-fullstack.vercel.app
 
 
 
